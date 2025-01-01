@@ -1,14 +1,9 @@
-Hi there 👋
-I’m a Full Stack Developer with a strong foundation in both frontend and backend technologies, constantly pushing my skills forward in DSA and cloud computing. Here’s a bit about me:
-
-🔭 Currently Building: Scalable full-stack projects that focus on real-world applications and solving unique user needs.
-🌱 Learning & Growing: Diving deeper into Data Structures and Algorithms for efficient problem-solving, along with cloud solutions to design more robust applications.
-💡 Excited About: Collaborative projects and open-source contributions where I can work with like-minded tech enthusiasts.
-🤝 Looking for Opportunities: Projects where I can apply my full stack expertise, particularly in MERN stack and cloud deployment.
-💬 Ask Me About: Clean code practices, integrating frontend and backend seamlessly, or the latest in full-stack development trends.
-
-😄 Pronouns: He/Him
-⚡ Fun Fact: I love finding elegant solutions to challenging problems—clean code isn’t just a preference, it’s a passion!
+👋 Hi, I’m a Full Stack Developer skilled in building scalable and user-centric web applications.
+🛠 Tech Stack: JavaScript, React, HTML, CSS, Bootstrap, Python, C++, and cloud computing.
+🌱 Currently mastering Data Structures & Algorithms and exploring robust cloud solutions.
+💡 Passionate about clean code, real-world projects, and open-source collaboration.
+🚀 Excited About: MERN stack projects, cloud deployment, and solving complex challenges.
+💬 Ask Me About: Full stack development, seamless frontend-backend integration, and coding best practices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikmokara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DheeDance) 
